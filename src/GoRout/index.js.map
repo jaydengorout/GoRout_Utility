@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.es6"],"names":["GoRout","User","Auth"],"mappings":";;AAAA;;;;AAIA;;;;;AAKA,IAAMA,SAAS;AACbC,YADa;AAEbC;AAFa,CAAf","file":"index.js","sourcesContent":["/**\n * Created by jayde on 12/26/2016.\n */\n\n/**\n * @module\n * @name GoRout\n * @type {{User, Auth}}\n */\nconst GoRout = {\n  User,\n  Auth\n}\n"]}

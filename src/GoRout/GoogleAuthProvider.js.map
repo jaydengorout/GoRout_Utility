@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoogleAuthProvider.es6"],"names":["GoogleAuthProvider"],"mappings":";;AAIA;;;;;;+eAJA;;;;IAOMA,kB;;;;;;;;;;EAA2B,eAAKA,kB","file":"GoogleAuthProvider.js","sourcesContent":["/**\n * Created by jayden on 12/28/16.\n */\n\nimport {auth} from \"firebase\"\n\n\nclass GoogleAuthProvider extends auth.GoogleAuthProvider{}"]}
